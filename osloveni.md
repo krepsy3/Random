@@ -32,6 +32,7 @@ Kinda ok:
  - Adél
  - Aduš
  - Áďa
+ - Zrzí
  - Štof
  - (Štófi|Štofí)
  - Štófa
