@@ -33,7 +33,8 @@ Kinda ok:
  - Aduš
  - Áďa
  - Štof
- - Štófi
+ - (Štófi|Štofí)
+ - Štófa
  - Štofík
  - Štofin
  - Kryštů
