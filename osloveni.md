@@ -7,6 +7,7 @@ OG Adél:
  - Plyšák
  - Koťátko
  - Nyny
+ - Ňuní
  
 Etc:
  - Mačiatko
