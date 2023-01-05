@@ -11,7 +11,7 @@ OG Adél:
 Etc:
  - Mačiatko
  - Žabka
- - Klempíř(ka)
+ - Klempíř(ka)?
 
 Ban:
  - Adélka
