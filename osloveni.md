@@ -20,8 +20,18 @@ Ban:
  - Aďulka
  - Aďu(li)+nka
  - Adísek
+ - Kry
+ - Krýša
+ - Květoslav
+ - Květák
+ - Snoopytime
 
 Kinda ok:
  - Adél
  - Aduš
  - Áďa
+ - Štof
+ - Štófi
+ - Štofík
+ - Štofin
+ - Kryštů
