@@ -8,7 +8,8 @@ OG Adél:
  - Koťátko
  - Nyny
  - Ňuní
- 
+ - Ňufulí (to je fakt dobrý)
+
 Etc:
  - Mačiatko
  - Žabka
