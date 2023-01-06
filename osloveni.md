@@ -14,6 +14,7 @@ Etc:
  - Mačiatko
  - Žabka
  - Klempíř(ka)?
+ - Filuta
 
 Ban:
  - Adélka
