@@ -16,6 +16,9 @@ Etc:
  - Klempíř(ka)?
  - Filuta
 
+OG Štof:
+ - Herdek
+
 Ban:
  - Adélka
  - Adéli(či)*čka
