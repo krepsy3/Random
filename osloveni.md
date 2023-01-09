@@ -1,5 +1,5 @@
-Osloveníčka
------------
+Slovníček
+---------
 
 OG Adél:
  - Kocúr
@@ -9,6 +9,7 @@ OG Adél:
  - Nyny
  - Ňuní
  - Ňufulí (to je fakt dobrý)
+ - Peroxopotvora
 
 Etc:
  - Mačiatko
