@@ -20,6 +20,9 @@ Etc:
 
 OG Štof:
  - Herdek
+ - Bazmek
+ - Pičutek
+ - Pinďárna
 
 Ban:
  - Adélka
@@ -33,6 +36,7 @@ Ban:
  - Květoslav
  - Květák
  - Snoopytime
+ - Pišk(u|ů)tek
 
 Kinda ok:
  - Adél
