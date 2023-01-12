@@ -10,6 +10,7 @@ OG Adél:
  - Ňuní
  - Ňufulí (to je fakt dobrý)
  - Peroxopotvora
+ - Žblunkatinka
 
 Etc:
  - Mačiatko
