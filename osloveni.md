@@ -23,6 +23,8 @@ OG Štof:
  - Bazmek
  - Pičutek
  - Pinďárna
+ - Dycxky
+ - Velikoz
 
 Ban:
  - Adélka
