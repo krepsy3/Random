@@ -11,12 +11,16 @@ OG Adél:
  - Ňufulí (to je fakt dobrý)
  - Peroxopotvora
  - Žblunkatinka
+ - Hermelín
+ - Vokurka
+ - Paprika
 
 Etc:
  - Mačiatko
  - Žabka
  - Klempíř(ka)?
  - Filuta
+ - Zmrad
 
 OG Štof:
  - Herdek
@@ -25,6 +29,7 @@ OG Štof:
  - Pinďárna
  - Dycxky
  - Velikoz
+ - Vejce
 
 Ban:
  - Adélka
